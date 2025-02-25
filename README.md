@@ -23,7 +23,7 @@
    ```
 4. **Create and Use Screen**
    ```bash
-   screen -R monad
+   screen -S monad
    ```
 5. **Run the Application**
    ```bash
