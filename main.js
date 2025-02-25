@@ -25,7 +25,6 @@ async function loadChalk() {
     { name: "Bebob Swap", path: "./modul/bebop.js" },
     { name: "Monorail", path: "./modul/mono.js" },
     { name: "Kitsu", path: "./modul/kitsu.js" },
-    { name: "AutoSend", path: "./modul/AutoSend.js" },
   ];
 
   console.log(chalk.yellow("ðŸ”¹ Daftar Modul Tersedia ðŸ”¹\n"));
